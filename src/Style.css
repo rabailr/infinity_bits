@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    font: Medium;
+    font-family:Lato;
+    font-size:36px;
+    font-weight:Bold;
+    letter-spacing: 3.31px;
+    color: #112D46;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.rg-text{
+text-align: center;
+font: Loto;
+font-size:24px;
+letter-spacing: 0.15px;
+color: #605E5E;
+opacity: 1;
+}
+.img-cont{
+backgroung:'gray'
+}
+.h-line{
+width:200px;
+border: 1px solid black;
+}
+.bg-light {
+  opacity: 1;
+}
+
+.bg-light:hover {
+  opacity: 0.3;
+  transform: scale(.5);
+}
+.collapse.navbar-collapse{
+padding-left:200px}
