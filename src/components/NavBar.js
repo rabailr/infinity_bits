@@ -66,8 +66,8 @@ const Example = (props) => {
             <NavItem>
               <NavLink href="https://github.com/reactstrap/reactstrap">CONTACT US</NavLink>
             </NavItem>
-              <img style={styles.icon} src="/images/user-account-icon.svg"/>
-              <img style={styles.icon} src="/images/cart-icon.svg"/>
+              <img style={styles.icon} src="./images/user-account-icon.svg"/>
+              <img style={styles.icon} src="./images/cart-icon.svg"/>
           </Nav>
         </Collapse>
       </Navbar>

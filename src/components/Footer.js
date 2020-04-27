@@ -10,9 +10,9 @@ const Footer = (props) => {
                 <li>Get the App</li><br/>
                 <li>Follow Us</li>
                 <li>
-                    <img style={{width:'20px'}} src="/images/twitter-black-shape.svg"/>
-                    <img style={{width:'20px', paddingLeft:'10px'}} src="/images/facebook-letter-logo.svg"/>
-                    <img style={{width:'30px', paddingLeft:'10px'}} src="/images/insta-icon.svg"/>
+                    <img style={{width:'20px'}} src="./images/twitter-black-shape.svg"/>
+                    <img style={{width:'20px', paddingLeft:'10px'}} src="./images/facebook-letter-logo.svg"/>
+                    <img style={{width:'30px', paddingLeft:'10px'}} src="./images/insta-icon.svg"/>
                 </li><br/>
                 <li>Get insprition</li>
              </ul>

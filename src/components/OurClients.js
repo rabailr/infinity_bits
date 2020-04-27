@@ -15,15 +15,15 @@ const OurClients = (props) => {
       </Row>
       <Row>
         <Col xs="4" style={{textAlign:'left', paddingLeft:'0px'}}>
-           <img width="100%" src="/images/client.png" alt="Card image cap" />
+           <img width="100%" src="./images/client.png" alt="Card image cap" />
         </Col>
         <Col xs="8" style={{textAlign:'left', paddingLeft:'0px', paddingRight:'0px'}}>
             <CardBody>
                   <CardTitle style={styles.heading}>Jeremy Crouse</CardTitle>
                   <CardText style={styles.rgText}>(Graphic Designer)<br/>
-                  <img width="6%" src="/images/Group 614.svg" style={{paddingRight:'10px'}}/>
+                  <img width="6%" src="./images/Group 614.svg" style={{paddingRight:'10px'}}/>
                   I was looking a way to save my University degree from getting damaged while showing to others and I found index. framing options. I have got my degree framed in stylish design which is also adding beauty to my room.
-                  <img width="6%" src="/images/Group 615.svg" style={{paddingLeft:'10px'}}/>
+                  <img width="6%" src="./images/Group 615.svg" style={{paddingLeft:'10px'}}/>
                   </CardText>
               </CardBody>
         </Col>

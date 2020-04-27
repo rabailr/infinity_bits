@@ -15,7 +15,7 @@ const Blog = (props) => {
       </Row>
       <Row>
         <Col xs="3" style={{textAlign:'left', paddingLeft:'0px'}}>
-           <img width="100%" src="/images/blog1.png" alt="Card image cap" />
+           <img width="100%" src="./images/blog1.png" alt="Card image cap" />
         </Col>
         <Col xs="3" style={{textAlign:'left', paddingLeft:'0px'}}>
             <CardBody>
@@ -30,7 +30,7 @@ const Blog = (props) => {
               </CardBody>
         </Col>
         <Col xs="3" style={{textAlign:'left', paddingLeft:'0px'}}>
-           <img width="100%" src="/images/blog2.png" alt="Card image cap" />
+           <img width="100%" src="./images/blog2.png" alt="Card image cap" />
         </Col>
         <Col xs="3" style={{textAlign:'left', paddingLeft:'0px'}}>
             <CardBody>

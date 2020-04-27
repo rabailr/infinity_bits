@@ -15,20 +15,20 @@ const Work = (props) => {
       </Row>
       <Row>
         <Col xs="6">
-            <img width="100%" src="/images/Component1.png" alt="Card image cap" />
+            <img width="100%" src="./images/Component1.png" alt="Card image cap" />
         </Col>
         <Col xs="6">
         <Row>
         <Col xs="6">
-            <img width="100%" src="/images/impressive.png" alt="Card image cap" />
+            <img width="100%" src="./images/impressive.png" alt="Card image cap" />
         </Col>
         <Col xs="6">
-            <img width="100%" src="/images/Component3.png" alt="Card image cap" />
+            <img width="100%" src="./images/Component3.png" alt="Card image cap" />
         </Col>
         </Row>
         <Row>
         <Col xs="12">
-            <img style={{paddingTop:"25px"}}width="100%" src="/images/Component4.png" alt="Card image cap" />
+            <img style={{paddingTop:"25px"}}width="100%" src="./images/Component4.png" alt="Card image cap" />
         </Col>
         </Row>
         </Col>

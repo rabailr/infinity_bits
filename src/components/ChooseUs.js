@@ -21,7 +21,7 @@ const comp=[
                     <Col xs="6" style={{paddingLeft:'0px'}}>
                         <CardBody style={{display:'inline-flex'}}>
                         <Col xs="3">
-                            <img width="50px" src={"/images/"+data.img}/>
+                            <img width="50px" src={"./images/"+data.img}/>
                         </Col>
                         <Col xs="9">
                           <CardTitle style={styles.heading}>{data.name}</CardTitle>
@@ -36,8 +36,8 @@ const comp=[
               </CardText>
         </Col>
         <Col xs="5" style={{textAlign:'left'}}>
-           <img width="80%" src="/images/fborder.svg" alt="Card image cap" style={styles.tImg} />
-           <img width="80%" src="/images/framss.png" alt="Card image cap" style={styles.bImg}/>
+           <img width="80%" src="./images/fborder.svg" alt="Card image cap" style={styles.tImg} />
+           <img width="80%" src="./images/framss.png" alt="Card image cap" style={styles.bImg}/>
         </Col>
       </Row>
       </Container>

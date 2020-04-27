@@ -6,7 +6,7 @@ const Header = (props) => {
     <Container style={{padding:"50px"}}>
       <Row>
         <Col xs="6">
-           <img width="100%" src="/images/Group410.png" alt="Card image cap" />
+           <img width="100%" src="./images/Group410.png" alt="Card image cap" />
         </Col>
         <Col xs="6">
             <CardBody style={{paddingTop:'120px'}}>

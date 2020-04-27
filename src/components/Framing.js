@@ -27,7 +27,7 @@ const Framing = (props) => {
         <Col xs='12' className="bg-light">
         <Col style={{padding:'10px'}}>
             <Card>
-                <img width="100%" src={"/images/"+data.img} alt="Card image cap" />
+                <img width="100%" src={"./images/"+data.img} alt="Card image cap" />
             </Card>
             </Col>
         </Col>
